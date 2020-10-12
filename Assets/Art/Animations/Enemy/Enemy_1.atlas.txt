@@ -1,0 +1,131 @@
+
+Enemy_1.png
+size: 2014,1847
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hand_Andersrum
+  rotate: false
+  xy: 678, 1654
+  size: 260, 191
+  orig: 260, 191
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1200, 614
+  size: 610, 812
+  orig: 610, 812
+  offset: 0, 0
+  index: -1
+Head-eyes-closed-happy
+  rotate: true
+  xy: 1200, 2
+  size: 610, 812
+  orig: 610, 812
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 233, 1409
+  size: 248, 265
+  orig: 248, 265
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: true
+  xy: 1245, 1617
+  size: 228, 673
+  orig: 228, 673
+  offset: 0, 0
+  index: -1
+LeftLowerArm
+  rotate: true
+  xy: 940, 1633
+  size: 212, 303
+  orig: 212, 303
+  offset: 0, 0
+  index: -1
+LeftUpperArm
+  rotate: false
+  xy: 1695, 1226
+  size: 291, 389
+  orig: 291, 389
+  offset: 0, 0
+  index: -1
+Linkes_Bein_Alleine
+  rotate: false
+  xy: 2, 1659
+  size: 674, 186
+  orig: 674, 186
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 2, 347
+  size: 1196, 347
+  orig: 1196, 347
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 2, 1160
+  size: 246, 669
+  orig: 246, 669
+  offset: 0, 0
+  index: -1
+RightLowerArm
+  rotate: false
+  xy: 2, 1429
+  size: 229, 228
+  orig: 229, 228
+  offset: 0, 0
+  index: -1
+RightUpperArm
+  rotate: false
+  xy: 673, 1040
+  size: 383, 366
+  orig: 383, 366
+  offset: 0, 0
+  index: -1
+Schwert
+  rotate: false
+  xy: 500, 1408
+  size: 1193, 207
+  orig: 1193, 207
+  offset: 0, 0
+  index: -1
+hand_back
+  rotate: false
+  xy: 2, 696
+  size: 1196, 342
+  orig: 1196, 342
+  offset: 0, 0
+  index: -1
+
+Enemy_12.png
+size: 1901,1226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 78
+  size: 1146, 1083
+  orig: 1146, 1083
+  offset: 0, 0
+  index: -1
+Head-eyes-closed-not-happy
+  rotate: true
+  xy: 1087, 614
+  size: 610, 812
+  orig: 610, 812
+  offset: 0, 0
+  index: -1
+Head-not-happy
+  rotate: true
+  xy: 1087, 2
+  size: 610, 812
+  orig: 610, 812
+  offset: 0, 0
+  index: -1
